@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+.container1{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.container2{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+#div-3{
+	width: 100px;
+	height: 100px;
+	background-color: green;
+}
+#div-1{
+	width: 100px;
+	height: 100px;
+	background-color: red;
+}
+#div-2{
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+}
