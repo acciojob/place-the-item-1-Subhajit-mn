@@ -1,11 +1,11 @@
 
 /* Your CSS Code here. */
-.container1{
+.holder-1{
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
 }
-.container2{
+.holder-2{
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
