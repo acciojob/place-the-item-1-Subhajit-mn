@@ -5,7 +5,7 @@
 	flex-direction: row;
 	justify-content: space-between;
 }
-.holder-2{
+.holder{
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
